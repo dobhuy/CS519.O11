@@ -10,9 +10,6 @@
 ### Giảng viên
 * PGS.TS Lê Đình Duy - duyld@uit.edu.vn
 
-### TÊN ĐỀ TÀI 
-Sentiment Analysis for Multi-Aspect Comments on Restaurants domain
-
 ### Thành viên nhóm
 
 | STT | Họ tên | MSSV | Email |
